@@ -1,0 +1,56 @@
+Explore Tech Stacks
+
+#1 MERN
+    M: Mongo DB;
+    E: Express;
+    R: React;
+    N: Node.js
+Job links:
+    1> https://ca.indeed.com/jobs?q=mern&l=canada&vjk=a2ea30c5a895b3e6
+    2> https://ca.indeed.com/jobs?q=mern&l=Canada&vjk=006e2e84628ae8a2
+    3> https://ca.indeed.com/jobs?q=mern&l=Canada&vjk=9a59a40bb993b99c
+    4> https://ca.indeed.com/jobs?q=mern&l=Canada&vjk=9a59a40bb993b99c
+    5> https://ca.indeed.com/jobs?q=mern&l=Canada&pp=gQAAAAAAAAAAAAAAAAAB89nx_QADAAABAAA&vjk=6ce8ff87b46c8e79
+
+#2 MEAN
+    M: Mongo;
+    E: Express;
+    A: Angular;
+    N: Node.js
+Job links:
+    1> https://ca.indeed.com/jobs?q=mern+web&l=Canada&vjk=53894bf55b7158a7
+    2> https://ca.indeed.com/jobs?q=mern+web&l=Canada&vjk=d5fec342d4a3322f
+    3> https://ca.indeed.com/jobs?q=mern+web&l=Canada&vjk=623048f26d410b5c
+    4> https://ca.indeed.com/jobs?q=mern+web&l=Canada&vjk=868744a442d76ccf
+    5> https://ca.indeed.com/jobs?q=mern+web&l=Canada&vjk=bf00159460a7704b
+
+3# JAM
+    J: Javascript;
+    A: APIs;
+    M: Markup;
+Job links:
+    1> https://ca.indeed.com/jobs?q=mern+web&l=Canada&vjk=bf00159460a7704b
+    2> https://ca.indeed.com/jobs?q=mern+web&l=Canada&vjk=ec39a6588df879e3
+    3> https://ca.indeed.com/jobs?q=jam+web&l=Canada&vjk=a07fcd2eb3bd5db2
+    4> https://ca.indeed.com/jobs?q=jam+web&l=Canada&vjk=d5fec342d4a3322f
+    5> https://ca.indeed.com/jobs?q=jam+web&l=Canada&vjk=623048f26d410b5c
+
+4# PERN
+    P: Postgresql;
+    E: Express;
+    R: React;
+    N: Node.js
+Job links:
+    1> no job link found on indeed
+
+5# LAMP:    Looks PHP is still very popular!
+    L: Linux;
+    A: Apache;
+    M: MySql;
+    P: PHP;
+Job links:
+    1> https://ca.indeed.com/jobs?q=lamp+web&l=Canada&vjk=3d49446dd6a8c18a&advn=8650256223824937
+    2> https://ca.indeed.com/jobs?q=lamp+web&l=Canada&vjk=03b168485fd899c5
+    3> https://ca.indeed.com/jobs?q=lamp+web&l=Canada&vjk=6591b0e1213ce477&advn=8219952726273394
+    4> https://ca.indeed.com/jobs?q=lamp+web&l=Canada&vjk=0c25f7bdb2b61620
+    5> https://ca.indeed.com/jobs?q=lamp+web&l=Canada&vjk=e342e50425f1f646

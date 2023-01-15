@@ -1,0 +1,26 @@
+MVVM Overview - my understanding.
+
+1>  What is MVVM?
+    A: MVVM is a strategy to organize code and logistic when coding, Model-View-ViewModel.
+2>  Difference with MVC?
+    A:  In MVC, controller is the key/transfer point in this design model. It
+sends views to user, and get input from views to update models. Meanwhile, views will
+get data through controllers too. 
+        In MVVM, viewmodel is the key point. It supplies data for views, then views
+could show users these data. At the same time, view could update viewmodel, then viewmodel update 
+related models.
+3>  Pros and cons for MVVM for web development?
+    A:  Pros:
+        a>  Simplify business logic in front-end, just grab the viewmodel data and update models 
+based on its methods.
+        b>  Good for unit testing. Viewmodel is a good point to implement tests for the both sides.
+        c>  MVVM might be helpful to reduce code lines, but it will increase the amount of data transfered.
+        Cons:
+        a>  MVVM will couple front-end with server-end more than MVC. They both have to use same viewmodel.
+        b>  Viewmodel is heavy for small requests.
+4>  A understand to MVVM and MVC
+    A:  For single page applications, MVVM could be better at some situations.
+        For multi-pages, multi-components applications, application based on MVC could be easier to de built.
+It could keep server-end as simple as possible. Interfaces between front-end and server-end could be simpler.
+5>  Advantages of MVP
+    A: MVP could refresh views when model changed. In MVC, it could be implmented by microservices.

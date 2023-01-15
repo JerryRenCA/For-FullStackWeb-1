@@ -1,0 +1,21 @@
+
+Test a garage door:
+
+S1: Press button in remote, check if opener works or not.
+    if yes: End;
+    else: move to S2
+S2: Press button in opener, check if opener works or not.
+    if yes: problem is the remote, replace it or fix it;
+    else: move to S3
+S3: Lift door by hand, check if door could move freely.
+    if no: problem is door itself. Fix door first;
+    else: move to S4;
+S4: Check power, opener is pluged in or not;
+    if no: Plug it in, move to S1;
+    else: move to S5;
+S5: Get a spare working opener, replace the old one. Try it, works?
+    if yes: problem is the old opener, buy a new one or fix it;
+    else: move S6;
+S6: Check the connect between opener and garage door, found any problem?
+    if yes: fix it; 
+    else: Move to S1, until opener working. 

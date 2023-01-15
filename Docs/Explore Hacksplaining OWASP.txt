@@ -1,0 +1,37 @@
+Explore Hacksplaing
+
+#1 Broken Access Control
+    Summary: Access control rules are the key to keep data secure.
+    Terminology unknown: In-house API
+
+#2 Unencrypted communication
+    Summary: Encrypting communication avoid the man in the middle.
+    Terminology unknown: TLS;
+
+#3 SQL injection
+    Summary: Use prestatement could avoid the injection; Exception processing is useful too.
+    Terminology unknown: 
+
+#4 Insecure design
+    Summary: Principle of least privilege; Validate input; fail securely;
+    Terminology unknown: Non-repudiability; Tampering; Trust boundary;
+
+#5 Security Misconfiguration
+    Summary: Default account; open directory listings;
+    Terminology: two-factor authentication;
+
+#6 Vulnerable and outdated components
+    Summary: Third-party libraries; Log4j;
+    Terminology: OSX-being
+
+#7 Identification and authentication failures
+    Summary: Password mismanagement; Social media authentication isn't suitable for all applications; Password reset; Salt password;
+    Terminology: burce-forcing; rainbow table;
+
+#9 Security logging and monitoring failures
+    Summary: Timestamp; Store log files in secure location;
+    Terminology: Cyber-attack; Response plan;
+
+#10 Server-side request forgery
+    Summary: keep a blocklist; Validate urls; Construct domains Of URLs
+    Terminology: SSRF attach; 

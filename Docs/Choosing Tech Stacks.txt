@@ -1,0 +1,22 @@
+Choosing Tech Stack
+
+#1  Q: What tech stack will be selected, if I am the CTO?
+    A: Under this limited information, because lead dev has 3 year's experience in LAMP, plus 3 junior devs, there is no more
+tech background in this team. Switching to another tech stack is very chanllengable. For a startup, it can't afford the loss if 
+project failed. On the other hand, for a eCommerce website, there are lots of resource about LAMP could be found, it's very helpful 
+to implement this project. So LAMP is the best choice in this situation.
+
+#2  Q: What is the next tech stack I intend to learn?
+    A: Frond end - React; Back end - Nest.Js Database: PostgreSql; Language: Typescript;
+    Why: 1> Detouching frond end and back end is helpfull to many projects, it could reduce the design complexity of project, and 
+increase the  maintainability of project. So a front end framework should be induced, such as React, Vue or Angular. Checking the 
+popularity of these frameworks, React is the popularest one.
+         2> There is a very wide options for the back end techelogy. Many different languages could be used. Due to reduce the time
+and cost of study, it is good to choose a language which could be used in both front end and back end. Therefore, Node.js is the only
+option. After some research on the back end frameworks or techelogies based on it, Nest.js is my favorite. It has a steep learn curve 
+to begin, but due to some previous experience on ASP.Net, I feel comfortable to employ it.
+         3> For database, I do not very trust No-SQL database to handle to scabled problems. In the meantime, when using ORM in project,
+it's very easy to swith from different databases, even no-sql database. So there is no cost to choose postgresql.
+         4> Language, JS or TS. JS is better in flexibility, but TS is better in reliability. Just because I have good background on C#, 
+I prefer to TS due to its better support on oriented object program.
+        That's my next tech stack: PRNT, and I am working on it.

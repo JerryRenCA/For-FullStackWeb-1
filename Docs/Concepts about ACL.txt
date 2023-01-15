@@ -1,0 +1,41 @@
+Acronymized concepts
+
+1> ACL: Access Control List
+   A: Assign resource or privilege to different groups of users. It's used as a router.
+      Benefits:
+      a> Simplied user identification;
+      b> Performance;
+      c> Conrol;
+
+2> DAC: Discretionary Access Control
+   A: Resource owner grants object access to other users.
+      Disadvantages:
+      a> Trojan horse;
+      b> ACL maintenance;
+      c> Revoke permissions
+      d> Limited negative authorization;
+
+3> RBAC: Role-based Access Control
+   A: Restrict access based on roles;
+      Benefits:
+      a> Reducing administrative work and IT support;
+      b> Maximizing operational efficiency;
+      c> Improving compliance;
+
+4> MAC: Mandatory Access Control
+   A: Define resource by different security lables/levels;
+      Classified:
+      a> Confidential;
+      b> Secret;
+      c> Top secret;
+
+5> WAF: Web Application Firewall
+   A: WAF is in front of web applications; a shield between web applications and the Internet; 
+pass through WAF before reaching servers;
+      Benefits:
+      a> protect server against knowen attacks;
+      b> classfied:
+        i>   network-based WAF;
+        ii>  host-based WAF;
+        iii> cloud-based WAF;
+      
